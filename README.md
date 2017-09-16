@@ -1,2 +1,2 @@
-# padroes-projeto
+# Padrões de Projeto
 Padrões  de Projeto
